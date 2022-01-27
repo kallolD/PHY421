@@ -12,6 +12,14 @@ z = np.cos(x)
 
 # plt.plot(x, y, label='sin(x)')
 # plt.plot(x, z, label='cos(x)')
+# plt.legend()
+# plt.xlabel('x')
+# plt.ylabel('y')
+# plt.title('Sines and cosines')
+# plt.show()
+
+# plt.plot(x, y, label='sin(x)')
+# plt.plot(x, z, label='cos(x)')
 # plt.xlabel('x')
 # plt.ylabel('y')
 # plt.title('Sines and Cosines')
@@ -19,6 +27,7 @@ z = np.cos(x)
 # plt.show()
 
 # # scatter plot
+
 # x = np.random.normal(size=100000) # variance=1
 # y = np.random.normal(size=100000) # variance=1
 # plt.scatter(x, y, alpha=0.4)

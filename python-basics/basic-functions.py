@@ -34,19 +34,20 @@
 
 # # arguments and if statments within functions
 
-# def func(lists, print=True):
+# def func(lists, p=True):
 # 	for x in lists:
-# 		if print: print(x)
+# 		if p: print(x)
 # 	return None
 
-# y = func(list1, print=False)
+# y = func(list1, p=False)
 # print(y)
 
 # # lambda
-# x = lambda x, a : a*x + x**2
-# print(x(2,3))
+# f = lambda x, a : a*x + x**2
+# print(f(2,3))
 
 # # Recursion
+# # function call within the function itself
 
 # def fibonacci(k):
 # 	if k==0:
