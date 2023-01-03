@@ -1,3 +1,3 @@
-# PHY421_2022
+# PHY421
 
 Intro to python (for PHY421)
